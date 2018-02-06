@@ -1,4 +1,6 @@
 # don't push project files
+*DerivedData*
+*addons.make
 *.cbp
 *.sln
 *.vcx*
